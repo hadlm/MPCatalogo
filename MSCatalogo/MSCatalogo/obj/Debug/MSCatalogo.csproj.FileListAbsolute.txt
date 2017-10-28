@@ -1,0 +1,14 @@
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\MSCatalogo.dll.config
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\MSCatalogo.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\MSCatalogo.pdb
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\Newtonsoft.Json.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Net.Http.Formatting.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Web.Http.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Web.Http.WebHost.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\Newtonsoft.Json.xml
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Net.Http.Formatting.xml
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Web.Http.xml
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\bin\System.Web.Http.WebHost.xml
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\obj\Debug\MSCatalogo.csprojResolveAssemblyReference.cache
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\obj\Debug\MSCatalogo.dll
+C:\Hervert\USAC\AYD2\MSCatalogo\MSCatalogo\obj\Debug\MSCatalogo.pdb
